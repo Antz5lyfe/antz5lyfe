@@ -1,8 +1,5 @@
 ## Hi there 👋
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
-</p>
 
 ```yaml
 - 🔭 I’m currently working on CS1101s :<
@@ -27,7 +24,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="php" width="45" height="45"/>
 </p>
 
-![Snake animation](https://github.com/antz5lyfe/antz5lyfe/blob/output/github-contribution-grid-snake.svg)
+<!-- ![Snake animation](https://github.com/antz5lyfe/antz5lyfe/blob/output/github-contribution-grid-snake.svg) -->
 
 <!--
 **Antz5lyfe/antz5lyfe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
