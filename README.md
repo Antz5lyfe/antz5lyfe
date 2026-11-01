@@ -1,42 +1,42 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Anton 👋</h1>
 
-
-```yaml
-- 🔭 I’m currently working on CS1101s :<
-- 🌱 I’m currently learning java :p
-- 👯 I’m looking to collaborate on fun projects!
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about github!
-- 📫 How to reach me: email me! 
-- 😄 Pronouns: he/him !
-- ⚡ Fun fact: i have a pet rabbit! 🐇
-```
-
-
-<a href="https://www.instagram.com/antz4lyfe/">
-  <img height="50" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png"/>
-</a>
-
-<h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
-<p align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="php" width="45" height="45"/>
+<p align="center">
+  Computer Science &amp; Mathematics at NUS<br />
+  Exploring software, security, and AI with a human purpose.
 </p>
 
-<!-- ![Snake animation](https://github.com/antz5lyfe/antz5lyfe/blob/output/github-contribution-grid-snake.svg) -->
+<p align="center">
+  <a href="https://antonang.pages.dev/">Portfolio &amp; notebook</a> ·
+  <a href="https://www.linkedin.com/in/anton-ang">LinkedIn</a> ·
+  <a href="https://www.instagram.com/antz4lyfe/">Instagram</a>
+</p>
 
-<!--
-**Antz5lyfe/antz5lyfe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### A little about me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy problems that reward a different perspective — from understanding an algorithm to thinking like an attacker. I build, experiment, and write down what I learn.
+
+- 🛠️ Building thoughtful tools and exploring AI for good.
+- 🔐 Interested in security, automation, and mathematical problem solving.
+- 🤝 Always happy to connect over a fun project.
+- 🐇 Away from the keyboard: rabbit parent. He/him.
+
+### Selected work
+
+| Project | What it's about |
+| :--- | :--- |
+| [**SafeStep**](https://antonang.pages.dev/details/safestep/) | Exploring AI to reduce cognitive load on elderly caregivers. Built through Hack4Good and Frostbyte. |
+| [**Portfolio & technical notebook**](https://antonang.pages.dev/) | Projects, experiments, and the reasoning behind the solutions. |
+
+### My toolbox
+
+`Python` · `TypeScript` · `Java` · `Linux` · `Git` · `VS Code`
+
+### Beyond the code
+
+Security puzzles and quantitative thinking keep me curious: GreyCTF, Singapore Cyber Conquest, and WorldQuant IQC.
+
+---
+
+<p align="center">Have something interesting in mind? <a href="https://www.linkedin.com/in/anton-ang">Let's connect.</a></p>
