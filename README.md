@@ -40,3 +40,11 @@ Security puzzles and quantitative thinking keep me curious: GreyCTF, Singapore C
 ---
 
 <p align="center">Have something interesting in mind? <a href="https://www.linkedin.com/in/anton-ang">Let's connect.</a></p>
+
+### Contribution snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Antz5lyfe/antz5lyfe/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Antz5lyfe/antz5lyfe/output/github-contribution-grid-snake.svg" />
+  <img alt="Snake animation eating my GitHub contributions" src="https://raw.githubusercontent.com/Antz5lyfe/antz5lyfe/output/github-contribution-grid-snake.svg" />
+</picture>
